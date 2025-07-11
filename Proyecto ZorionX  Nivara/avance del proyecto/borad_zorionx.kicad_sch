@@ -29,6 +29,30 @@
 		)
 		(uuid "12b361d6-6ff4-4663-bcaa-da9bd605ebbb")
 	)
+	(hierarchical_label "NPN_OUT_2"
+		(shape output)
+		(at 77.47 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "17d0ee8c-0c2a-478f-a9c0-189cf74a2e0c")
+	)
+	(hierarchical_label "RU{slash}STOP"
+		(shape input)
+		(at 19.05 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1ceb3d7b-f28a-4bd5-8e91-bc58b0d06bc4")
+	)
 	(hierarchical_label "PNP_IN_2"
 		(shape input)
 		(at 54.61 38.1 0)
@@ -76,6 +100,30 @@
 			(justify left)
 		)
 		(uuid "39b8f3ae-e935-495e-8042-12babc2dd188")
+	)
+	(hierarchical_label "NPN_OUT_1"
+		(shape output)
+		(at 77.47 25.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f45e395-b616-463a-a8e6-6296dcb239ef")
+	)
+	(hierarchical_label "PNP_OUT_2"
+		(shape output)
+		(at 77.47 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f9c103e-dfd8-43c1-9148-284fc7d1d100")
 	)
 	(hierarchical_label "A_420mA_OUT_1"
 		(shape output)
@@ -184,6 +232,18 @@
 			(justify left)
 		)
 		(uuid "da22e175-d104-44d9-9c35-d1cd85b5ce37")
+	)
+	(hierarchical_label "PNP_OUT_1"
+		(shape output)
+		(at 77.47 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dab951f7-4704-4aa9-9191-d041a0ed223c")
 	)
 	(hierarchical_label "A_0-10_OUT_1"
 		(shape output)
